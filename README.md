@@ -1,9 +1,5 @@
 # Metalio E-Ink 4
 
-<p align="center">
-  <img src="images/product_en.png" alt="Metalio E-Ink 4" width="720"/>
-</p>
-
 [中文](README_zn.md) | **English**
 
 **Quick links**
